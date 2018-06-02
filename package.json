@@ -1,0 +1,19 @@
+{
+  "name": "arithws",
+  "version": "1.0.0",
+  "description": "Arithmetic calculator websocket service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "websockets"
+  ],
+  "author": "Andy Payne",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "ws": "^5.2.0"
+  }
+}
